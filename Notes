@@ -1,0 +1,5 @@
+-The entire window of a gui is known as a stage-
+    *That includes the minimize, fullscreen, and exit buttons*
+-The content of the stage, so everything inside the window is known as a scene-
+    *Inside the scene is where we will put all the cool stuff like buttons, widgets, and whatnot*
+-A layout is basically how you want everything to appear-
