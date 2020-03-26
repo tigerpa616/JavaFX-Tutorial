@@ -1,3 +1,6 @@
+//Primary Resource: https://www.youtube.com/watch?v=FLkOX4Eez6o
+//Used to learn syntax of JavaFX and helped to explain what is going on in the code below
+
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
