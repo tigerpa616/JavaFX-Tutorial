@@ -3,3 +3,5 @@
 -The content of the stage, so everything inside the window is known as a scene-
     *Inside the scene is where we will put all the cool stuff like buttons, widgets, and whatnot*
 -A layout is basically how you want everything to appear-
+-Whenever you want to have User Events you need to implement the Event Handler for it to work-
+-Whenever an event occurs the handle method will be triggered, afterwards you need to find out the source of the event (what button was clicked for example)-
